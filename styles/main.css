@@ -31,12 +31,22 @@
 
  color: rgb(70, 124, 206);
  text-align: center;
+ 
 
 }
 
 #welcome {
+border-color: rgb(70, 124, 206);
+border-style: solid;
+border-radius: 100px;
 text-align: center;
 font-size: larger;
-
 }
 
+#about-me {
+border-style: solid;
+border-width: 1px ;
+font-size: larger;
+
+
+}
