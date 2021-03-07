@@ -38,7 +38,7 @@
 #welcome {
 border-color: rgb(70, 124, 206);
 border-style: solid;
-border-radius: 100px;
+border-radius: 10px;
 text-align: center;
 font-size: larger;
 }
@@ -46,6 +46,7 @@ font-size: larger;
 #about-me {
 border-style: solid;
 border-width: 1px ;
+position: absolute;
 font-size: larger;
 
 
