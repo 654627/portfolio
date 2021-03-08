@@ -20,10 +20,11 @@
     background-color: greenyellow;
     color: black;
   }
-  /*nav bar*/ 
+  /**/ nav 
   button {
     background-color: rgb(70, 124, 206);
   color: black;
+  }
   
 /* the header*/
  .name {
