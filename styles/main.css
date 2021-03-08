@@ -16,7 +16,7 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: greenyellow;
     color: black;
   }
   
@@ -46,7 +46,7 @@ font-size: larger;
 #about-me {
 border-color: blue;
 border-style: solid;
-border-width: 1px ;
+border-width: 5px ;
 position: absolute;
 font-size: larger;
 
