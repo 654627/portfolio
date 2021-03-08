@@ -1,4 +1,5 @@
 /* Add a black background color to the top navigation */
+/* nav bar*/
 .topnav {
     background-color: rgb(79, 78, 161);
     overflow: hidden;
@@ -19,14 +20,17 @@
     background-color: greenyellow;
     color: black;
   }
+  /*nav bar*/ 
+  button {
+    background-color: rgb(70, 124, 206);
+  color: black;
   
-  
-
+/* the header*/
  .name {
      color: rgb(70, 124, 206);
     text-align: center;
  }
-
+/* the title for each page */
 .homepage  {
 
  color: rgb(70, 124, 206);
@@ -34,7 +38,7 @@
  
 
 }
-
+/* text*/
 #welcome {
 border-color: blue;
 border-style: solid;
@@ -42,7 +46,7 @@ border-radius: 5px;
 text-align: center;
 font-size: larger;
 }
-
+/* text*/
 #about-me {
 border-color: blue;
 border-style: solid;
@@ -53,7 +57,7 @@ font-size: larger;
 
 
 }
-
+/* immages */
 .halo{
   display:inline-block ;
   float: right;
@@ -64,16 +68,15 @@ button {
   background-color: rgb(70, 124, 206);
 color: black;
 }
-
+/* text*/
 #me {
-
 border-color: blue;
 border-style: solid;
 border-width: 3px ;
 position: absolute;
 font-size: larger;
 }
-
+/* text*/
 .experience{
   border-color: blue;
   border-style: solid;
