@@ -57,3 +57,8 @@ font-size: larger;
   display:inline-block ;
   float: right;
 }
+
+button {
+  background-color: rgb(70, 124, 206);
+color: black;
+}
