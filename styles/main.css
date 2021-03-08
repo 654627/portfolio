@@ -36,9 +36,9 @@
 }
 
 #welcome {
-border-color: rgb(70, 124, 206);
+border-color: blue;
 border-style: solid;
-border-radius: 10px;
+border-radius: 5px;
 text-align: center;
 font-size: larger;
 }
