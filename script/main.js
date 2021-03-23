@@ -1,27 +1,33 @@
-function f1() {
-    alert('coming soon');
+function largernumber() {
+    alert()
+    var num1 = 3;
+    var num2 = 78;
+    if (num1<num2)
+    return num2;
+
+
 }
-function f2() {
-    alert('coming soon');
+function SignofProduct() {
+    alert('project 2 coming soon');
 }
-function f3() {
-    alert('coming soon');
+function Sorting3Integers() {
+    alert('project 3 coming soon');
 }
-function f4() {
-    alert('coming soon');
+function ForSumThree() {
+    alert('project 4 coming soon');
 }
-function f5() {
-    alert('coming soon');
+function WhileSumThree() {
+    alert('project 5 coming soon');
 }
-function f6() {
-    alert('coming soon');
+function tenFour() {
+    alert('project 6 coming soon');
 }
-function f7() {
-    alert('coming soon');
+function CenturyFromYear() {
+    alert('project 7 coming soon');
 }
-function f8() {
-    alert('coming soon');
+function ThirdAngle() {
+    alert('project 8 coming soon');
 }
 function f9() {
-    alert('coming soon');
+    alert('project 9 coming soon');
 }
