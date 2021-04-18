@@ -1,23 +1,6 @@
 function largernumber() {
-   
-    var NumberOne, NumberTwo;
-    NumberOne = prompt("Please enter your first integer");
-    NumberOne = prompt("Please enter your second integer");
-//I want to make  and NumberTwo my variables
-    if (NumberOne == NumberTwo){
-        alert ('The two integers you entered are equal');
-    }
-
-    else if (NumberOne > NumberTwo){
-        alert ('The first integer is larger than the second one');
-    }
-
-    else if (NumberOne < NumberTwo){
-        alert ('The second integer is larger than the first one');
-    }
-
-    else 
-        alert ('The characters you entered are not integers. Please try again')
+   let num = prompt("enter a num")
+   alert ("num enetered" + num)
 }
 function SignofProduct() {
     alert('project 2 coming soon');
